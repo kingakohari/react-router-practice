@@ -6,7 +6,7 @@ function Contact() {
   return (
     <Layout>
       <section>
-          <h2>Contact</h2>
+          <h2>This is the contacts page</h2>
       </section>
     </Layout>
   )

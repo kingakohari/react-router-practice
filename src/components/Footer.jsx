@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
   return (
     <section>
-        <h2>Legal Notice</h2>
+        <h3>This is an example project for practicing React routing</h3>
     </section>
   )
 }

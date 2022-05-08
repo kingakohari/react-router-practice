@@ -6,7 +6,7 @@ function About() {
   return (
     <Layout>
       <section>
-        <h2>About</h2>
+        <h2>This is the about page</h2>
       </section>
     </Layout>
   )
